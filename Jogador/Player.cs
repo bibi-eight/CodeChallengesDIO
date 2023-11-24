@@ -37,7 +37,7 @@ class Player
 
 }
 
-class Program 
+class Execute 
 {
     static void Main (string[] args)
     {
