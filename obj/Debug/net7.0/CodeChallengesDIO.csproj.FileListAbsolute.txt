@@ -1,0 +1,15 @@
+/home/brenda/Workspace-Dio/CodeChallengesDIO/bin/Debug/net7.0/CodeChallengesDIO
+/home/brenda/Workspace-Dio/CodeChallengesDIO/bin/Debug/net7.0/CodeChallengesDIO.deps.json
+/home/brenda/Workspace-Dio/CodeChallengesDIO/bin/Debug/net7.0/CodeChallengesDIO.runtimeconfig.json
+/home/brenda/Workspace-Dio/CodeChallengesDIO/bin/Debug/net7.0/CodeChallengesDIO.dll
+/home/brenda/Workspace-Dio/CodeChallengesDIO/bin/Debug/net7.0/CodeChallengesDIO.pdb
+/home/brenda/Workspace-Dio/CodeChallengesDIO/obj/Debug/net7.0/CodeChallengesDIO.csproj.AssemblyReference.cache
+/home/brenda/Workspace-Dio/CodeChallengesDIO/obj/Debug/net7.0/CodeChallengesDIO.GeneratedMSBuildEditorConfig.editorconfig
+/home/brenda/Workspace-Dio/CodeChallengesDIO/obj/Debug/net7.0/CodeChallengesDIO.AssemblyInfoInputs.cache
+/home/brenda/Workspace-Dio/CodeChallengesDIO/obj/Debug/net7.0/CodeChallengesDIO.AssemblyInfo.cs
+/home/brenda/Workspace-Dio/CodeChallengesDIO/obj/Debug/net7.0/CodeChallengesDIO.csproj.CoreCompileInputs.cache
+/home/brenda/Workspace-Dio/CodeChallengesDIO/obj/Debug/net7.0/CodeChallengesDIO.dll
+/home/brenda/Workspace-Dio/CodeChallengesDIO/obj/Debug/net7.0/refint/CodeChallengesDIO.dll
+/home/brenda/Workspace-Dio/CodeChallengesDIO/obj/Debug/net7.0/CodeChallengesDIO.pdb
+/home/brenda/Workspace-Dio/CodeChallengesDIO/obj/Debug/net7.0/CodeChallengesDIO.genruntimeconfig.cache
+/home/brenda/Workspace-Dio/CodeChallengesDIO/obj/Debug/net7.0/ref/CodeChallengesDIO.dll
